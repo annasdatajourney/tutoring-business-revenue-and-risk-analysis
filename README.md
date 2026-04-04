@@ -41,6 +41,24 @@ This project simulates a real-world tutoring business scenario to demonstrate ho
 
 ---
 
+
+## Project Background
+
+This project is based on a real tutoring business context that I was personally involved in.
+
+To ensure privacy and comply with data protection principles, all data used in this project was synthetically generated in Python to reflect realistic business scenarios without exposing any real personal or sensitive information.
+
+The entire project was built independently end-to-end, including:
+
+- designing the business scenario  
+- generating the dataset in Python  
+- analysing the data using SQL  
+- building the final dashboard in Power BI  
+
+The goal was to replicate a realistic business analysis workflow rather than working on a pre-existing dataset.
+
+---
+
 ## Dataset
 
 Source: simulated tutoring business dataset (Python-generated)
@@ -198,17 +216,4 @@ The focus is on business understanding, not just visualisation.
 
 ---
 
-## Project Background
 
-This project is based on a real tutoring business context that I was personally involved in.
-
-To ensure privacy and comply with data protection principles, all data used in this project was synthetically generated in Python to reflect realistic business scenarios without exposing any real personal or sensitive information.
-
-The entire project was built independently end-to-end, including:
-
-- designing the business scenario  
-- generating the dataset in Python  
-- analysing the data using SQL  
-- building the final dashboard in Power BI  
-
-The goal was to replicate a realistic business analysis workflow rather than working on a pre-existing dataset.
