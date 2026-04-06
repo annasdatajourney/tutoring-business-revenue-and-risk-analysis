@@ -217,3 +217,6 @@ The focus is on business understanding, not just visualisation.
 ---
 
 
+## Kaggle Dataset
+This dataset is also available on Kaggle:
+[(https://www.kaggle.com/datasets/dziduszka/tutoring-business-revenue-risk-dataset)]
