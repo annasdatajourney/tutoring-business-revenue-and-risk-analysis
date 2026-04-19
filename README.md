@@ -160,12 +160,30 @@ The dashboard is designed to support quick business interpretation and decision-
 
 ## Key Business Insights
 
-- There is a clear gap between expected and actual revenue  
-- Student cancellations and no-shows are the main drivers of revenue loss  
-- Revenue risk is concentrated in specific segments  
-- Revenue patterns vary across the academic year  
+There is a clear gap between expected and actual revenue, primarily driven by cancellations and no-shows rather than pricing issues.
+
+Student cancellations and no-shows represent the largest source of revenue loss, with the highest impact observed in evening time slots where demand is strongest.
+
+Revenue risk is concentrated in specific segments, particularly among adult learners and exam preparation students, who show less consistent attendance patterns.
+
+Revenue performance varies across the academic year, with noticeable declines during winter months, suggesting seasonal impact on attendance behaviour.
+
+These patterns indicate that operational factors such as scheduling, availability, and attendance behaviour play a bigger role in revenue performance than pricing alone.
 
 ---
+
+
+## Business Recommendations
+
+Based on the analysis, the business could consider:
+
+- introducing stricter cancellation policies for high-risk segments
+- offering more flexible rescheduling options during winter periods
+- prioritising high-demand evening slots for more reliable students
+- monitoring tutor availability to reduce scheduling bottlenecks
+
+---
+
 
 ## Repository Structure
 
