@@ -1,5 +1,5 @@
 # Tutoring Business Revenue and Risk Analysis
-Power BI | SQL | Python | Data Analysis | Business Intelligence
+Power BI | SQL | Python | Data Analysis 
 
 ---
 
